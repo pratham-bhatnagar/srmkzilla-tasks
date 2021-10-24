@@ -16,5 +16,5 @@
 
 ## CONTRIBUTOR
 
-| <p align="center">![Harsh Goel](https://github.com/pratham-bhatnagar.png?size=128)<br>[Harsh Goel](https://github.com/pratham-bhatnagar)</p> 
+| <p align="center">![PRATHAM BHATNAGAR](https://github.com/pratham-bhatnagar.png?size=128)<br>[PRATHAM BHATNAGAR](https://github.com/pratham-bhatnagar)</p> 
 | -------------------------------------------------------------------------------------------------------------------------------- |
