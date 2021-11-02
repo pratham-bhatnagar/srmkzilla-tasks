@@ -2,11 +2,11 @@ greet = () =>{
     if(d.getHours()<=12){
         return "Good Morning";
     }
-    else if(d.getHours()>12 && d.getHours()<=16){
+    else if(d.getHours()>12 && d.getHours()<=15){
         return "Good Afternoon";
     }
     else{
-        return "Good Evsening";
+        return "Good Evening";
     }
 }
 var d = new Date();
